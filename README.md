@@ -5,6 +5,7 @@ Currencies that are supported are:
 - BTC
 - LTC
 - DOGE
+- DASH
 
 ### Generate Address
 
